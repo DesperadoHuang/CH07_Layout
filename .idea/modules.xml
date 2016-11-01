@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CH07_03_TableLayout/CH07_03_TableLayout.iml" filepath="$PROJECT_DIR$/CH07_03_TableLayout/CH07_03_TableLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH07_04_RelativeLayout/CH07_04_RelativeLayout.iml" filepath="$PROJECT_DIR$/CH07_04_RelativeLayout/CH07_04_RelativeLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH07_05_FrameLayout/CH07_05_FrameLayout.iml" filepath="$PROJECT_DIR$/CH07_05_FrameLayout/CH07_05_FrameLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH07_06_GridLayout/CH07_06_GridLayout.iml" filepath="$PROJECT_DIR$/CH07_06_GridLayout/CH07_06_GridLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/CH07_Layout.iml" filepath="$PROJECT_DIR$/CH07_Layout.iml" />
     </modules>
   </component>

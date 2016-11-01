@@ -1,1 +1,1 @@
-include ':CH07_02_LinearLayout', ':CH07_03_TableLayout', ':CH07_04_RelativeLayout', ':CH07_05_FrameLayout'
+include ':CH07_02_LinearLayout', ':CH07_03_TableLayout', ':CH07_04_RelativeLayout', ':CH07_05_FrameLayout', ':CH07_06_GridLayout'
